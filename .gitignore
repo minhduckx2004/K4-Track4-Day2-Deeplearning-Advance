@@ -10,5 +10,7 @@ images/
 checkpoints/
 __pycache__/
 .ipynb_checkpoints/
+.idea/
 runs/
 eval_out/
+submissions/work/
